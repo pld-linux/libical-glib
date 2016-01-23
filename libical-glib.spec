@@ -5,12 +5,12 @@
 Summary:	GObject interface of the libical library
 Summary(pl.UTF-8):	Interfejs GObject do biblioteki libical
 Name:		libical-glib
-Version:	1.0.3
-Release:	2
+Version:	1.0.4
+Release:	1
 License:	LGPL v2.1
 Group:		Libraries
 Source0:	http://ftp.gnome.org/pub/GNOME/sources/libical-glib/1.0/%{name}-%{version}.tar.xz
-# Source0-md5:	88ecff73cc8cf3415268a46fe7d45455
+# Source0-md5:	403e9b4f86f025024d49bc67d632f7a5
 URL:		https://wiki.gnome.org/Projects/libical-glib
 BuildRequires:	glib2-devel >= 1:2.32
 BuildRequires:	gnome-common
