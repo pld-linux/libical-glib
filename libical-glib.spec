@@ -1,3 +1,4 @@
+# NOTE: for versions >= 3 see libical.spec
 #
 # Conditional build:
 %bcond_without	static_libs	# static library
