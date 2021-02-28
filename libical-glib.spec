@@ -67,9 +67,7 @@ Summary:	libical-glib API documentation
 Summary(pl.UTF-8):	Dokumentacja API biblioteki libical-glib
 Group:		Documentation
 Requires:	gtk-doc-common
-%if "%{_rpmversion}" >= "5"
 BuildArch:	noarch
-%endif
 
 %description apidocs
 API documentation for libical-glib library.
